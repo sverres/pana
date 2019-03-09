@@ -61,7 +61,7 @@ The Zen<br>of Python
 @ulend
 @snapend
 
----
+---?image=template/img/bg/green.jpg&position=left&size=100% 100%
 @title[Fenced Code Block]
 
 
