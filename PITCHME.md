@@ -42,10 +42,10 @@ Guido van Rossum<br><br>
 @snapend
 
 
----?image=template/img/bg/pink.jpg&position=left&size=70% 100%
+---?image=template/img/bg/pink.jpg&position=left&size=55% 100%
 @title[Heading + List Body]
 
-@snap[east text-17 text-bold text-pink span-50]
+@snap[east text-17 text-bold text-pink span-45]
 The Zen<br>of Python
 @snapend
 
