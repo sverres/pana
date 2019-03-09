@@ -2,11 +2,11 @@
 @title[Introduction]
 
 
-@snap[west text-45 text-bold text-white]
+@snap[west text-55 text-bold text-white]
 python
 @snapend
 
-@snap[south-west byline text-white text-12]
+@snap[south-west byline text-white text-8]
 Beautiful is better than ugly
 @snapend
 
@@ -19,9 +19,9 @@ Dagens tema
 
 @snap[east text-white span-45]
 @ol[split-screen-list text-08](false)
-- Om programmeringsspråket python
-- Pyhon i undervisning - et eksempel
-- Om Jupyper Notebook
+- Om python
+- Python i undervisning
+- Om Jupyter Notebook
 @olend
 @snapend
 
