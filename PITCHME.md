@@ -2,7 +2,7 @@
 @title[Introduction]
 
 
-@snap[west text-55 text-bold text-white]
+@snap[west text-45 text-bold text-white]
 python
 @snapend
 
