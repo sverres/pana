@@ -61,10 +61,13 @@ The Zen<br>of Python
 @ulend
 @snapend
 
----?color=lavender
+---
 @title[Fenced Code Block]
 
-#### Quiz: Hva vil dette python-programmet skrive til skjermen?
+
+@snap[west text-14]
+Quiz:<br>Hva vil dette python-programmet skrive til skjermen?
+@snapend
 
 ```python
 for x in range(1, 11):
