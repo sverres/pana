@@ -32,7 +32,7 @@ Dagens tema
 Guido van Rossum<br><br>
 @ul[split-screen-list text-08](false)
 - lanserte programmeringsspåket python i 1991
-- Benevolent dictator for life (BDFL)  til 2018
+- Benevolent Dictator For Life (BDFL)  til 2018
 - Monty Python fan
 @ulend
 @snapend
@@ -61,3 +61,28 @@ The Zen<br>of Python
 @ulend
 @snapend
 
+---?color=lavender
+@title[Fenced Code Block]
+
+```javascript
+// Include http module.
+var http = require("http");
+
+// Create the server. Function passed as parameter
+// is called on every request made.
+http.createServer(function (request, response) {
+  // Attach listener on end event.  This event is
+  // called when client sent, awaiting response.
+  request.on("end", function () {
+    // Write headers to the response.
+    // HTTP 200 status, Content-Type text/plain.
+    response.writeHead(200, {
+      'Content-Type': 'text/plain'
+    });
+    // Send data and end response.
+    response.end('Hello HTTP!');
+  });
+
+// Listen on the 8080 port.
+}).listen(8080);
+```
