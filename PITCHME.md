@@ -41,10 +41,10 @@ Top<br>Tips!
 @ulend
 @snapend
 
-+++?image=template/img/bg/green.jpg&position=left&size=50% 100%
++++?image=template/img/bg/green.jpg&position=left&size=60% 100%
 @title[Text + Image Fragment]
 
-@snap[west span-45 text-11 text-white]
+@snap[west span-55 text-11 text-white]
 Guido van Rossum<br>
 @ul[split-screen-list text-08](false)
 - lanserte programmeringsspåket python i 1991
