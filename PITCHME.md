@@ -41,3 +41,25 @@ Top<br>Tips!
 @ulend
 @snapend
 
++++?image=template/img/bg/green.jpg&position=left&size=50% 100%
+@title[Text + Image Fragment]
+
+@snap[west span-40 text-12 text-white]
+Guido van Rossum<br><br>
+@ul[split-screen-list text-08](false)
+- lanserte programmeringsspåket python i 1991
+- Benevolent dictator for life (BDFL)  til 2018
+- Monty Python fan
+@ulend
+@snapend
+
+
+
+@snap[east fragment]
+@img[split-screen-img span-55](template/img/developer.jpg)
+@snapend
+
+@snap[south-west template-note text-white]
+Split-screen text and image-fragment template.
+@snapend
+
