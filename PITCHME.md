@@ -10,14 +10,14 @@ python
 @quote[Beautiful is better than ugly](The Zen of Python)
 @snapend
 
----?image=template/img/bg/orange.jpg&position=right&size=60% 100%
+---?image=template/img/bg/orange.jpg&position=right&size=50% 100%
 @title[agenda]
 
-@snap[west text-16 text-bold text-italic text-orange span-40]
+@snap[west text-16 text-bold text-italic text-orange span-50]
 Dagens tema
 @snapend
 
-@snap[east text-white span-60]
+@snap[east text-white span-50]
 @ol[split-screen-list text-08](false)
 - Om python
 - Python i undervisning
@@ -42,14 +42,14 @@ Guido van Rossum<br><br>
 @snapend
 
 
----?image=template/img/bg/pink.jpg&position=left&size=55% 100%
+---?image=template/img/bg/pink.jpg&position=left&size=60% 100%
 @title[Heading + List Body]
 
-@snap[east text-17 text-bold text-pink span-45]
+@snap[east text-17 text-bold text-pink span-40]
 The Zen<br>of Python
 @snapend
 
-@snap[west text-white span-65]
+@snap[west text-white span-60]
 @ul[split-screen-list text-08](false)
 - Beautiful is better than ugly
 - Explicit is better than implicit
