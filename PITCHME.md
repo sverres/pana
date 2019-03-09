@@ -7,7 +7,7 @@ python
 @snapend
 
 @snap[south-west byline text-white text-8]
-@quote[Beautiful is better than ugly]
+@quote[Beautiful is better than ugly](The Zen of Python)
 @snapend
 
 +++?image=template/img/bg/orange.jpg&position=right&size=50% 100%
@@ -17,18 +17,13 @@ python
 Dagens tema
 @snapend
 
-@snap[east text-white span-45]
+@snap[east text-white span-40]
 @ol[split-screen-list text-08](false)
 - Om python
 - Python i undervisning
 - Om Jupyter Notebook
 @olend
 @snapend
-
-@snap[south-west template-note text-gray]
-Split-screen heading and list body template.
-@snapend
-
 
 +++?image=template/img/bg/pink.jpg&position=left&size=70% 100%
 @title[Heading + List Body]
@@ -38,15 +33,11 @@ Top<br>Tips!
 @snapend
 
 @snap[west text-white span-65]
+## Guido van Rossum
 @ul[split-screen-list text-08](false)
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-- Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
+- lanserte programmeringsspåket python i 1991
+- Benevolent dictator for life (BDFL)  til 2018
+- Monty Python fan
 @ulend
-@snapend
-
-@snap[south-west template-note text-white]
-Split-screen heading and list body template.
 @snapend
 
