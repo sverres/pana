@@ -64,25 +64,9 @@ The Zen<br>of Python
 ---?color=lavender
 @title[Fenced Code Block]
 
-```javascript
-// Include http module.
-var http = require("http");
+## Quiz: Hva vil dette python-programmet skrive til skjermen?
 
-// Create the server. Function passed as parameter
-// is called on every request made.
-http.createServer(function (request, response) {
-  // Attach listener on end event.  This event is
-  // called when client sent, awaiting response.
-  request.on("end", function () {
-    // Write headers to the response.
-    // HTTP 200 status, Content-Type text/plain.
-    response.writeHead(200, {
-      'Content-Type': 'text/plain'
-    });
-    // Send data and end response.
-    response.end('Hello HTTP!');
-  });
-
-// Listen on the 8080 port.
-}).listen(8080);
+```
+for x in range(1, 11):
+    print x * x
 ```
