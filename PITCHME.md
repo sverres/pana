@@ -10,14 +10,14 @@ python
 @quote[Beautiful is better than ugly](The Zen of Python)
 @snapend
 
----?image=template/img/bg/orange.jpg&position=right&size=50% 100%
+---?image=template/img/bg/orange.jpg&position=right&size=60% 100%
 @title[agenda]
 
-@snap[west text-16 text-bold text-italic text-orange span-50]
+@snap[west text-16 text-bold text-italic text-orange span-40]
 Dagens tema
 @snapend
 
-@snap[east text-white span-40]
+@snap[east text-white span-60]
 @ol[split-screen-list text-08](false)
 - Om python
 - Python i undervisning
@@ -51,13 +51,13 @@ The Zen<br>of Python
 
 @snap[west text-white span-65]
 @ul[split-screen-list text-08](false)
-- Beautiful is better than ugly.
-- Explicit is better than implicit.
-- Simple is better than complex.
-- Complex is better than complicated.
-- Flat is better than nested.
-- Sparse is better than dense.
-- Readability counts.
+- Beautiful is better than ugly
+- Explicit is better than implicit
+- Simple is better than complex
+- Complex is better than complicated
+- Flat is better than nested
+- Sparse is better than dense
+- Readability counts
 @ulend
 @snapend
 
