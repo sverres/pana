@@ -33,7 +33,7 @@ Top<br>Tips!
 @snapend
 
 @snap[west text-white span-65]
-## Guido van Rossum
+@color[white](Guido van Rossum)
 @ul[split-screen-list text-08](false)
 - lanserte programmeringsspåket python i 1991
 - Benevolent dictator for life (BDFL)  til 2018
