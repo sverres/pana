@@ -7,7 +7,7 @@ python
 @snapend
 
 @snap[south-west byline text-white text-8]
-Beautiful is better than ugly
+@quote[Beautiful is better than ugly]
 @snapend
 
 +++?image=template/img/bg/orange.jpg&position=right&size=50% 100%
