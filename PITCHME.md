@@ -1,5 +1,5 @@
 ---?color=linear-gradient(to right, #c02425, #f0cb35)
-@title[Introduction]
+@title[python]
 
 
 @snap[west text-45 text-bold text-white]
@@ -10,8 +10,8 @@ python
 @quote[Beautiful is better than ugly](The Zen of Python)
 @snapend
 
-+++?image=template/img/bg/orange.jpg&position=right&size=50% 100%
-@title[Heading + List Body]
+---?image=template/img/bg/orange.jpg&position=right&size=50% 100%
+@title[agenda]
 
 @snap[west text-16 text-bold text-italic text-orange span-50]
 Dagens tema
@@ -25,24 +25,8 @@ Dagens tema
 @olend
 @snapend
 
-+++?image=template/img/bg/pink.jpg&position=left&size=70% 100%
-@title[Heading + List Body]
-
-@snap[east text-17 text-bold text-pink span-50]
-Top<br>Tips!
-@snapend
-
-@snap[west text-white span-65]
-@color[white](## Guido van Rossum)
-@ul[split-screen-list text-08](false)
-- lanserte programmeringsspåket python i 1991
-- Benevolent dictator for life (BDFL)  til 2018
-- Monty Python fan
-@ulend
-@snapend
-
-+++?image=template/img/bg/green.jpg&position=left&size=60% 100%
-@title[Text + Image Fragment]
+---?image=template/img/bg/green.jpg&position=left&size=60% 100%
+@title[Guido van Rossum]
 
 @snap[west span-55 text-11 text-white]
 Guido van Rossum<br><br>
@@ -55,5 +39,25 @@ Guido van Rossum<br><br>
 
 @snap[east fragment]
 @img[split-screen-img span-55](template/img/developer.jpg)
+@snapend
+
+
+---?image=template/img/bg/pink.jpg&position=left&size=70% 100%
+@title[Heading + List Body]
+
+@snap[east text-17 text-bold text-pink span-50]
+The Zen<br>of Python
+@snapend
+
+@snap[west text-white span-65]
+@ul[split-screen-list text-08](false)
+- Beautiful is better than ugly.
+- Explicit is better than implicit.
+- Simple is better than complex.
+- Complex is better than complicated.
+- Flat is better than nested.
+- Sparse is better than dense.
+- Readability counts.
+@ulend
 @snapend
 
