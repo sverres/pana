@@ -64,9 +64,9 @@ The Zen<br>of Python
 ---?color=lavender
 @title[Fenced Code Block]
 
-## Quiz: Hva vil dette python-programmet skrive til skjermen?
+#### Quiz: Hva vil dette python-programmet skrive til skjermen?
 
-```
+```python
 for x in range(1, 11):
     print x * x
 ```
