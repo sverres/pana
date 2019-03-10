@@ -69,9 +69,7 @@ The Zen<br>of Python
 Quiz:<br>Hva vil dette python-programmet skrive til skjermen?
 @snapend
 
-@snap[west text-12]
 ```python
 for x in range(1, 11):
     print x * x
 ```
-@snapend

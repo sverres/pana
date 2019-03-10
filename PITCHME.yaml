@@ -38,7 +38,7 @@ footnote : "GitPitch - The Fastest Way From Idea To Presentation"
 # Highlight (Code) Setting
 # Doc: https://gitpitch.com/docs/settings/highlight
 #
-highlight : monokai
+highlight : default
 code-line-numbers : true
 
 #
