@@ -7,4 +7,4 @@ print(a + b)  # 3
 a = 'A'
 b = 'B'
 
-print(a + b) # 'AB'
+print(a + b)  # 'AB'

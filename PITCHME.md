@@ -43,7 +43,7 @@ Guido van Rossum<br><br>
 
 
 ---?image=template/img/bg/pink.jpg&position=left&size=60% 100%
-@title[Heading + List Body]
+@title[The Zen of Python]
 
 @snap[east text-17 text-bold text-pink span-40]
 The Zen<br>of Python
@@ -62,17 +62,15 @@ The Zen<br>of Python
 @snapend
 
 ---?image=template/img/bg/green.jpg&position=left&size=100% 100%
-@title[Fenced Code Block]
-@box[bg-orange text-white rounded demo-box-pad](Quiz:<br>Hva vil dette python-programmet<br>skrive til skjermen?)
-<br>
+@title[Et enkelt python-program]
 @code[python zoom-21](src/range.py)
 
 ---?image=template/img/bg/blue.jpg&position=left&size=100% 100%
-@title[Fenced Code Block]
+@title[Et enkelt C-program]
 @code[c zoom-15](src/range.c)
 
 ---?image=template/img/bg/blue.jpg&position=left&size=100% 100%
-@title[Fenced Code Block]
+@title[Et kompakt C-program]
 @code[c zoom-15](src/range_compact.c)
 
 ---?image=template/img/bg/green.jpg
