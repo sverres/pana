@@ -66,3 +66,9 @@ The Zen<br>of Python
 @box[bg-orange text-white rounded demo-box-pad](Quiz:<br>Hva vil dette python-programmet<br>skrive til skjermen?)
 <br>
 @code[python zoom-21](src/range.py)
+
+---?image=template/img/bg/blue.jpg&position=left&size=100% 100%
+@title[Fenced Code Block]
+@box[bg-orange text-white rounded demo-box-pad](Det samme programmert i C)
+<br>
+@code[c zoom-21](src/range.c)
