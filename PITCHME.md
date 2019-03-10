@@ -153,9 +153,9 @@ datastrukturene
 @ulend
 @snapend
 
----?image=template/img/bg/green.jpg&position=left&size=40% 100%
+---?image=template/img/bg/green.jpg&position=left&size=50% 100%
 @title[Innebygde metoder]
-@snap[east text-17 text-bold text-green span-60]
+@snap[east text-17 text-bold text-green span-50]
 Python kan utvides<br>
 med eksterne moduler
 @snapend
