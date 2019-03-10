@@ -71,5 +71,5 @@ Quiz:<br>Hva vil dette python-programmet skrive til skjermen?
 
 ```python
 for x in range(1, 11):
-    print x * x
+    print(x * x)
 ```
