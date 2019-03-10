@@ -94,3 +94,36 @@ The Zen<br>of Python
 @code[python zoom-15](src/type_conflict_output.py)
 
 
+---?image=template/img/bg/blue.jpg&position=left&size=40% 100%
+@title[Static typing]
+
+@snap[east text-17 text-bold text-blue span-60]
+Språk med<br>
+"Static typing"
+@snapend
+
+@snap[west text-white span-60]
+@ul[split-screen-list text-12](false)
+- C
+- C++
+- C#
+- Java
+@ulend
+@snapend
+
+---?image=template/img/bg/green.jpg&position=left&size=40% 100%
+@title[Dynamic typing]
+
+@snap[east text-17 text-bold text-green span-60]
+Språk med<br>
+"Dynamic typing"
+@snapend
+
+@snap[west text-white span-60]
+@ul[split-screen-list text-12](false)
+- Python
+- JavaScript
+- Perl
+@ulend
+@snapend
+
