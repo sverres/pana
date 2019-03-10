@@ -66,7 +66,7 @@ The Zen<br>of Python
 
 
 @snap[north-west bold span-80]
-Quiz:<br>Hva vil dette python-programmet skrive til skjermen?
+Quiz:<br>Hva vil dette python-programmet<br>skrive til skjermen?
 @snapend
 
 @snap[west span-80]
