@@ -67,6 +67,6 @@ The Zen<br>of Python
 
 @box[bg-orange text-white rounded demo-box-pad](Quiz:<br>Hva vil dette python-programmet<br>skrive til skjermen?)
 
-<br><br><br>
+<br>
 
 @code[python zoom-21](src/range.py)
