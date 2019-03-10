@@ -75,3 +75,10 @@ The Zen<br>of Python
 @title[Fenced Code Block]
 @code[c zoom-15](src/range_compact.c)
 
+---?image=template/img/bg/green.jpg
+@title[Dynamisk typebestemmelse]
+
+## Python har dynamisk typebestemmelse>br>(dynamic typing)
+
+@code[python zoom-15](src/dynamisk.py)
+
