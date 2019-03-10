@@ -83,5 +83,14 @@ The Zen<br>of Python
 
 @code[python zoom-15](src/dynamisk_output.py)
 
+---?image=template/img/bg/green.jpg
+@title[Dynamisk typebestemmelse]
+
+@code[python zoom-15](src/type_conflict.py)
+
+---?image=template/img/bg/green.jpg
+@title[Dynamisk typebestemmelse]
+
+@code[python zoom-15](src/type_conflict_output.py)
 
 
