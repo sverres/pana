@@ -78,3 +78,10 @@ The Zen<br>of Python
 
 @code[python zoom-15](src/dynamisk.py)
 
+---?image=template/img/bg/green.jpg
+@title[Dynamisk typebestemmelse]
+
+@code[python zoom-15](src/dynamisk_output.py)
+
+
+
