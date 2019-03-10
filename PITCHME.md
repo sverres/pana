@@ -65,7 +65,7 @@ The Zen<br>of Python
 @title[Fenced Code Block]
 
 
-@snap[north-west text-8]
+@snap[north-west]
 Quiz:<br>Hva vil dette python-programmet skrive til skjermen?
 @snapend
 
