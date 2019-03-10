@@ -66,7 +66,6 @@ The Zen<br>of Python
 
 
 @snap[north-west bold ]
-Quiz:<br>Hva vil dette python-programmet<br>skrive til skjermen?
-@snapend
+box[bg-orange text-white rounded demo-box-pad](Quiz:<br>Hva vil dette python-programmet<br>skrive til skjermen?)
 
 @code[python zoom-21](src/range.py)
