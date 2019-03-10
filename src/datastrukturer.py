@@ -11,5 +11,5 @@ studenter = ('NTNU', 38000, 2019)
 studenter[0]  # 'NTNU'
 
 # Dictionary
-innbyggere = {'Norge': 5258000, 'Sverige': 9995000, 'Island': 331918}
+innbyggere = {'Norge': 5258000, 'Sverige': 9995000}
 innbyggere['Sverige']  # 9995000
