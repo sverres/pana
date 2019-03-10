@@ -132,3 +132,40 @@ Språk med<br>
 @title[Datastrukturer]
 
 @code[python zoom-8](src/datastrukturer.py)
+
+
+
+---?image=template/img/bg/green.jpg&position=left&size=40% 100%
+@title[Innebygde metoder]
+@snap[east text-17 text-bold text-green span-60]
+Innebygde metoder på<br>
+datastrukturene
+@snapend
+
+@snap[west text-white span-60]
+@ul[split-screen-list text-12](false)
+- størrelse
+- sortering
+- reversere
+- legge til
+- slette
+- m.m.
+@ulend
+@snapend
+
+---?image=template/img/bg/green.jpg&position=left&size=40% 100%
+@title[Innebygde metoder]
+@snap[east text-17 text-bold text-green span-60]
+Python kan utvides<br>
+med eksterne moduler
+@snapend
+
+@snap[west text-white span-60]
+@ul[split-screen-list text-12](false)
+- matriseregning
+- statistikk
+- plotting
+- maskinlæring
+- m.m.m.
+@ulend
+@snapend
