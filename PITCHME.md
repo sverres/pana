@@ -65,7 +65,6 @@ The Zen<br>of Python
 @title[Fenced Code Block]
 
 
-@snap[north-west bold ]
-box[bg-orange text-white rounded demo-box-pad](Quiz:<br>Hva vil dette python-programmet<br>skrive til skjermen?)
+@box[bg-orange text-white rounded demo-box-pad](Quiz:<br>Hva vil dette python-programmet<br>skrive til skjermen?)
 
 @code[python zoom-21](src/range.py)
