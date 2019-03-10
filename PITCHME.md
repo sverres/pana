@@ -65,8 +65,8 @@ The Zen<br>of Python
 @title[Fenced Code Block]
 
 
-@snap[north-west bold span-80]
-Quiz:<br><br>Hva vil dette python-programmet<br>skrive til skjermen?
+@snap[north-west bold ]
+Quiz:<br>Hva vil dette python-programmet<br>skrive til skjermen?
 @snapend
 
-@code[west python zoom-21](src/range.py)
+@code[python zoom-21](src/range.py)
