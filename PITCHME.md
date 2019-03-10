@@ -69,6 +69,6 @@ The Zen<br>of Python
 Quiz:<br>Hva vil dette python-programmet skrive til skjermen?
 @snapend
 
-@snap[west span-60]
-@code[python zoom-10](src/range.py)
+@snap[west span-80]
+@code[python zoom-15](src/range.py)
 @snapend
