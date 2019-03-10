@@ -78,6 +78,5 @@ The Zen<br>of Python
 ---?image=template/img/bg/green.jpg
 @title[Dynamisk typebestemmelse]
 
-### Dynamisk typebestemmelse
 @code[python zoom-15](src/dynamisk.py)
 
