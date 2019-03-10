@@ -69,10 +69,9 @@ The Zen<br>of Python
 
 ---?image=template/img/bg/blue.jpg&position=left&size=100% 100%
 @title[Fenced Code Block]
-@code[c zoom-15](src/range.c)
+@code[c zoom-18](src/range.c)
 
 ---?image=template/img/bg/blue.jpg&position=left&size=100% 100%
 @title[Fenced Code Block]
-@code[c zoom-15](src/range_compact.c)
-<br>
-@box[bg-orange text-white rounded demo-box-pad](linjeskift og mellomrom har ikke betydning her)
+@code[c zoom-18](src/range_compact.c)
+
