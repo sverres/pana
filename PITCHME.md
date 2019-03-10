@@ -127,3 +127,8 @@ Språk med<br>
 @ulend
 @snapend
 
+
+---?image=template/img/bg/green.jpg
+@title[Datastrukturer]
+
+@code[python zoom-12](src/datastrukturer.py)
