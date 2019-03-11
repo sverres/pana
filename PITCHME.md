@@ -54,8 +54,8 @@ Guido van Rossum<br><br>
 ---
 @title[Guido van Rossum]
 
-@snap[west span-55 text-11 text-white]
-@quote[I want Python to be more effective for large projects, without losing sight of its use for small projects and teaching"&image=template/img/bg/green.jpg]
+@snap[west span-55 byline text-11 text-green]
+@quote[I want Python to be more effective for large projects, without losing sight of its use for small projects and teaching"]
 @snapend
 
 @snap[east]
