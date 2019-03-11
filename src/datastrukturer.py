@@ -1,6 +1,6 @@
 # Innebygde datastrukturer
 
-# Lister
+# List
 A = [23, 48, 35, 44, 28]
 B = [2300, 'øst', 'A', 1961]
 A[0]  # 23

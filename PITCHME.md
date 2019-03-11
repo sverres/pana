@@ -114,6 +114,12 @@ The Zen<br>of Python
 
 
 
+---?image=template/img/bg/blue.jpg&position=left&size=100% 100%
+@title[Et enkelt C-program]
+@code[c zoom-15](src/range.c)
+
+
+
 ---?image=template/img/bg/blue.jpg&position=left&size=40% 100%
 @title[Static typing]
 
@@ -149,6 +155,13 @@ Språk med<br>
 @ulend
 @snapend
 
+
+---
+@title[Dynamic typing]
+
+### Kompilator vs. "runtime environment"
+
+![images/kompilator.png]
 
 
 ---?image=template/img/bg/green.jpg
