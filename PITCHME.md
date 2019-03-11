@@ -12,7 +12,7 @@ python
 
 
 
----?image=images/growth_major_languages.png&size=75%
+---?image=images/growth_major_languages.png&size=50%
 @title[Popularitet]
 
 
