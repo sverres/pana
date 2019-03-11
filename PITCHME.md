@@ -232,7 +232,13 @@ oppsummert
 
 
 ---?image=template/img/bg/green.jpg
-@title[Dynamisk typebestemmelse]
+@title[createRandomPoints]
 
 @code[python zoom-12](src/createRandomPoints.py)
+
+
+---?image=template/img/bg/green.jpg
+@title[createRandomPoints]
+
+@code[python zoom-12](src/NNF.py)
 
