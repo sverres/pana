@@ -12,6 +12,11 @@ python
 
 
 
+---?image=growth_major_languages.png&size=75%
+@title[Popularitet]
+
+
+
 ---?image=template/img/bg/orange.jpg&position=right&size=50% 100%
 @title[agenda]
 
@@ -37,7 +42,7 @@ Guido van Rossum<br><br>
 @ul[split-screen-list text-08](false)
 - lanserte programmeringsspåket python i 1991
 - Benevolent Dictator For Life (BDFL)  til 2018
-- Fan av “Monty Python’s Flying Circus” 
+- Fan av<br>“Monty Python’s Flying Circus” 
 @ulend
 @snapend
 
@@ -156,7 +161,7 @@ Språk med<br>
 
 
 ---?image=images/kompilator.png&size=75%
-@title[Dynamic typing]
+@title[Kompilatorer]
 
 
 
