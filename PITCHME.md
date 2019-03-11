@@ -177,7 +177,7 @@ datastrukturene
 @snap[west text-white span-60]
 @ul[split-screen-list text-12](false)
 - størrelse
-- sortering
+- sortere
 - reversere
 - legge til
 - slette
@@ -204,15 +204,15 @@ med eksterne moduler
 @ulend
 @snapend
 
----?image=template/img/bg/pink.jpg&position=left&size=60% 100%
+---?image=template/img/bg/pink.jpg&position=left&size=50% 100%
 @title[The Zen of Python]
 
-@snap[east text-17 text-bold text-pink span-40]
+@snap[east text-17 text-bold text-pink span-50]
 Python<br>
 oppsummert
 @snapend
 
-@snap[west text-white span-60]
+@snap[west text-white span-50]
 @ul[split-screen-list text-08](false)
 - enkel, kompakt syntaks
 - lettlest kode
