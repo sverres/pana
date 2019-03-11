@@ -1,4 +1,4 @@
-# S: mulig cluster-datasett
+# S: mulig cluster-datasett (dictionary)
 # P: CSR-datasett (dictionary)
 
 def NNF(S, P, infinity):
@@ -11,4 +11,3 @@ def NNF(S, P, infinity):
                 dMin = d
                 D[i] = dMin
     return D
-
