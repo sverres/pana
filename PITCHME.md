@@ -55,7 +55,7 @@ Guido van Rossum<br><br>
 @title[Guido van Rossum]
 
 @snap[west span-55 byline text-11 text-green]
-@quote[I want Python to be more effective for large projects, without losing sight of its use for small projects and teaching"]
+@quote[I want Python to be more effective for large projects, without losing sight of its use for small projects and teaching]
 @snapend
 
 @snap[east]
@@ -254,3 +254,12 @@ oppsummert
 
 @code[python zoom-12](src/NNF.py)
 
+@[1-2, zoom-25]
+@[3, zoom-25]
+@[4, zoom-25]
+@[5, zoom-25]
+@[6, zoom-25]
+@[7, zoom-25]
+@[8, zoom-25]
+@[9-11, zoom-25]
+@[12, zoom-25]
