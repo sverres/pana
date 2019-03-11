@@ -137,6 +137,7 @@ Språk med<br>
 - C
 - C++
 - C#
+- Fortran
 - Java
 @ulend
 @snapend
@@ -227,3 +228,11 @@ oppsummert
 - krever "runtime environment"
 @ulend
 @snapend
+
+
+
+---?image=template/img/bg/green.jpg
+@title[Dynamisk typebestemmelse]
+
+@code[python zoom-12](src/createRandomPoints.py)
+
