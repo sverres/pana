@@ -7,8 +7,10 @@ python
 @snapend
 
 @snap[south-west byline text-white text-8]
-@quote[Beautiful is better than ugly](The Zen of Python)
+@quote[Beautiful is better than ugly]
 @snapend
+
+
 
 ---?image=template/img/bg/orange.jpg&position=right&size=50% 100%
 @title[agenda]
@@ -25,6 +27,8 @@ Dagens tema
 @olend
 @snapend
 
+
+
 ---?image=template/img/bg/green.jpg&position=left&size=60% 100%
 @title[Guido van Rossum]
 
@@ -40,6 +44,7 @@ Guido van Rossum<br><br>
 @snap[east fragment]
 @img[split-screen-img span-55](template/img/developer.jpg)
 @snapend
+
 
 
 ---?image=template/img/bg/pink.jpg&position=left&size=60% 100%
@@ -61,37 +66,52 @@ The Zen<br>of Python
 @ulend
 @snapend
 
+
+
 ---?image=template/img/bg/green.jpg&position=left&size=100% 100%
 @title[Et enkelt python-program]
 @code[python zoom-21](src/range.py)
+
+
 
 ---?image=template/img/bg/blue.jpg&position=left&size=100% 100%
 @title[Et enkelt C-program]
 @code[c zoom-15](src/range.c)
 
+
+
 ---?image=template/img/bg/blue.jpg&position=left&size=100% 100%
 @title[Et kompakt C-program]
 @code[c zoom-15](src/range_compact.c)
+
+
 
 ---?image=template/img/bg/green.jpg
 @title[Dynamisk typebestemmelse]
 
 @code[python zoom-15](src/dynamisk.py)
 
+
+
 ---?image=template/img/bg/green.jpg
 @title[Dynamisk typebestemmelse]
 
 @code[python zoom-15](src/dynamisk_output.py)
+
+
 
 ---?image=template/img/bg/green.jpg
 @title[Dynamisk typebestemmelse]
 
 @code[python zoom-15](src/type_conflict.py)
 
+
+
 ---?image=template/img/bg/green.jpg
 @title[Dynamisk typebestemmelse]
 
 @code[python zoom-15](src/type_conflict_output.py)
+
 
 
 ---?image=template/img/bg/blue.jpg&position=left&size=40% 100%
@@ -111,6 +131,8 @@ Språk med<br>
 @ulend
 @snapend
 
+
+
 ---?image=template/img/bg/green.jpg&position=left&size=40% 100%
 @title[Dynamic typing]
 
@@ -126,6 +148,7 @@ Språk med<br>
 - Perl
 @ulend
 @snapend
+
 
 
 ---?image=template/img/bg/green.jpg
@@ -152,6 +175,8 @@ datastrukturene
 - m.m.
 @ulend
 @snapend
+
+
 
 ---?image=template/img/bg/green.jpg&position=left&size=50% 100%
 @title[Innebygde metoder]
