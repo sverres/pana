@@ -37,12 +37,12 @@ Guido van Rossum<br><br>
 @ul[split-screen-list text-08](false)
 - lanserte programmeringsspåket python i 1991
 - Benevolent Dictator For Life (BDFL)  til 2018
-- Monty Python fan
+- Fan av “Monty Python’s Flying Circus” 
 @ulend
 @snapend
 
-@snap[east fragment]
-@img[split-screen-img span-55](template/img/developer.jpg)
+@snap[east]
+@img[split-screen-img span-55](images/Guido.jpg)
 @snapend
 
 
@@ -220,6 +220,5 @@ oppsummert
 - rike datastrukturer
 - store utvidelsesmuligheter
 - krever "runtime environment"
-- lastes ned fra python.org
 @ulend
 @snapend
