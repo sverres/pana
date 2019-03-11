@@ -50,9 +50,18 @@ Guido van Rossum<br><br>
 @img[split-screen-img span-55](images/Guido.jpg)
 @snapend
 
-@snap[south-east text-white text-8]
+
+---?image=template/img/bg/green.jpg&position=left&size=60% 100%
+@title[Guido van Rossum]
+
+@snap[west span-55 text-11 text-white]
 @quote[I want Python to be more effective for large projects, without losing sight of its use for small projects and teaching"]
 @snapend
+
+@snap[east]
+@img[split-screen-img span-55](images/Guido.jpg)
+@snapend
+
 
 
 ---?image=template/img/bg/pink.jpg&position=left&size=60% 100%
