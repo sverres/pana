@@ -161,7 +161,7 @@ Språk med<br>
 
 ### Kompilator vs. "runtime environment"
 
-![images/kompilator.png]
+![Kompilator ](images/kompilator.png)
 
 
 ---?image=template/img/bg/green.jpg
