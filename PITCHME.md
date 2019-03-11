@@ -156,7 +156,7 @@ Språk med<br>
 @snapend
 
 
----?image=images/kompilator.png&size=90%
+---?image=images/kompilator.png&size=80%
 @title[Dynamic typing]
 
 
