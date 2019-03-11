@@ -1,6 +1,5 @@
 # S: mulig cluster-datasett (dictionary)
 # P: CSR-datasett (dictionary)
-
 def NNF(S, P, infinity):
     D = {}
     for i in P:
