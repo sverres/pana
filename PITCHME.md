@@ -252,14 +252,14 @@ oppsummert
 ---?image=template/img/bg/green.jpg
 @title[createRandomPoints]
 
-@code[python zoom-12 span-80](src/NNF.py)
+@code[python zoom-10](src/NNF.py)
 
-@[1-2, zoom-25]
-@[3, zoom-25]
-@[4, zoom-25]
-@[5, zoom-25]
-@[6, zoom-25]
-@[7, zoom-25]
-@[8, zoom-25]
-@[9-11, zoom-25]
-@[12, zoom-25]
+@[1-2, zoom-14]
+@[3, zoom-14]
+@[4, zoom-14]
+@[5, zoom-14]
+@[6, zoom-14]
+@[7, zoom-14]
+@[8, zoom-14]
+@[9-11, zoom-14]
+@[12, zoom-14]
