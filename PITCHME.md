@@ -156,10 +156,9 @@ Språk med<br>
 @snapend
 
 
----
+---?image=images/kompilator.png
 @title[Dynamic typing]
 
-![Kompilator ](images/kompilator.png)
 
 
 ---?image=template/img/bg/green.jpg
