@@ -159,8 +159,6 @@ Språk med<br>
 ---
 @title[Dynamic typing]
 
-### Kompilator vs. "runtime environment"
-
 ![Kompilator ](images/kompilator.png)
 
 
