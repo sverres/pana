@@ -94,6 +94,10 @@ The Zen<br>of Python
 @title[Et enkelt C-program]
 @code[c zoom-15](src/range.c)
 
+@[3-4,10, zoom-14]
+@[5, zoom-14]
+@[7-9, zoom-14]
+
 
 
 ---?image=template/img/bg/blue.jpg&position=left&size=100% 100%
@@ -247,6 +251,12 @@ oppsummert
 @title[createRandomPoints]
 
 @code[python zoom-12](src/createRandomPoints.py)
+
+@[1-5, zoom-14]
+@[6, zoom-14]
+@[7, zoom-14]
+@[8-10, zoom-14]
+@[11, zoom-14]
 
 
 ---?image=template/img/bg/green.jpg
