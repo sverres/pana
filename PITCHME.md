@@ -29,8 +29,7 @@ python
 
 
 ---
-@title[createRandomPoints]
-
+@title[programmering for geomatikk]
 
 @snap[west span-100]
 ### GEO2061<br>Programmering for geomatikk
@@ -42,6 +41,19 @@ python
 @ulend
 @snapend
 
+
+---
+@title[Vitenskapelig programmering]
+
+@snap[west span-100]
+### IMT3881<br>Vitenskapelig programmering
+Høynivå vitenskapelig programmering for
+- visualisering av flerdimensjonale data
+- lineæralgebra
+- optimalisering
+@ul
+@ulend
+@snapend
 
 
 ---?image=images/growth_major_languages.png&size=50%
