@@ -14,7 +14,7 @@ python
 ---?image=template/img/bg/blue.jpg
 @title[createRandomPoints]
 
-@snap[north span-80]
+@snap[north span-100]
 @code[ini zoom-05](src/GPS_snippet.txt)
 @snapend
 
