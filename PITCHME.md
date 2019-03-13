@@ -14,13 +14,13 @@ python
 ---?image=template/img/bg/blue.jpg
 @title[createRandomPoints]
 
-@code[python zoom-12](src/GPS-snippet.txt)
+@code[python zoom-12](src/GPS_snippet.txt)
 
 
 ---?image=template/img/bg/blue.jpg
 @title[createRandomPoints]
 
-@code[python zoom-12](src/SOSI-snippet.txt)
+@code[python zoom-12](src/SOSI_snippet.txt)
 
 
 ---?image=images/growth_major_languages.png&size=50%
