@@ -12,7 +12,7 @@ python
 
 
 ---?image=template/img/bg/blue.jpg
-@title[createRandomPoints]
+@title[GPS-fil]
 
 @snap[north span-100]
 @code[ini zoom-05](src/GPS_snippet.txt)
@@ -20,12 +20,23 @@ python
 
 
 ---?image=template/img/bg/green.jpg
-@title[createRandomPoints]
+@title[SOSI-fil]
 
 
 @snap[north span-100]
 @code[ini zoom-05](src/SOSI_snippet.txt)
 @snapend
+
+
+---
+@title[createRandomPoints]
+
+## GEO2061 – Programmering for geomatikk
+
+- obligatorisk emne i bachelor-studiet 2004-2007
+- Grunnleggende python-programmering
+- Bruk av python i ArcGIS
+
 
 
 ---?image=images/growth_major_languages.png&size=50%
