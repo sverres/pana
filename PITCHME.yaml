@@ -32,7 +32,7 @@ theme : simple
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "Python introduksjon for IVB 13.03.2019 - Sverre Stikbakke"
+footnote : "Python-introduksjon for IVB 13.03.2019 - Sverre Stikbakke"
 
 #
 # Highlight (Code) Setting
@@ -59,6 +59,6 @@ transition : none
 # Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "Python introduksjon"
+title : "Python-introduksjon"
 description : "Sverre Stikbakke"
 thumbnail : https://gitpitch.com/gpimg/the-template-thumb.jpg
