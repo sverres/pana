@@ -129,8 +129,10 @@ The Zen<br>of Python
 - Now is better than never
 - Readability counts
 @ulend
-_*-Tim Peters*_
+<br>
+_*Tim Peters*_
 @snapend
+
 
 
 
@@ -304,7 +306,7 @@ oppsummert
 @title[and now..]
 
 
-@snap[south-west byline text-white text-12]
+@snap[center text-white text-14]
 @quote[and now for somthing completey different](Monty Python Flying Circus)
 @snapend
 
