@@ -31,6 +31,9 @@ python
 ---
 @title[createRandomPoints]
 
+
+@snap[west span-100]
+
 ## GEO2061
 
 ### Programmering for geomatikk
@@ -38,6 +41,7 @@ python
 - obligatorisk emne i bachelor-studiet 2004-2007
 - Grunnleggende python-programmering
 - Bruk av python i ArcGIS
+@snapend
 
 
 
