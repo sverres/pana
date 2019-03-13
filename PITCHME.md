@@ -33,12 +33,12 @@ python
 
 
 @snap[west span-100]
-
-## GEO2061 Programmering for geomatikk
+## GEO2061<br>Programmering for geomatikk
 @ul
 - obligatorisk emne i bachelor-studiet 2004-2007
-- Grunnleggende python-programmering
-- Bruk av python i ArcGIS
+- grunnleggende python-programmering
+- bruk av python i ArcGIS
+- avløst av java-kurs ved IMT
 @ulend
 @snapend
 
