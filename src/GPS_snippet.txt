@@ -1,0 +1,22 @@
+H  SOFTWARE NAME & VERSION
+I  GPSU 4.04  REGISTERED to 'Hogskolen i Gjovik'
+S DateFormat=mm.dd.yyyy
+S Units=M,M
+S SymbolSet=1
+
+H R DATUM
+M E               WGS 84 100  0.0000000E+00  0.0000000E+00 0 0 0
+
+H  COORDINATE SYSTEM
+U  UTM UPS
+
+H TRACK SUMMARY
+H Track            Pnts Date          Time     StopTime  seconds        m    m/s Alt(m)  
+H                   1607 08.23.2003 08:17:32 12:40:40    15788    86485    5.5    927.0
+
+F Zne Easting  Northing Alt(m)   Date          Time     S  seconds        m    m/s
+T 32V 627710 6779796    227.0 08.23.2003 08:17:32 1 
+T 32V 627694 6779745    229.0 08.23.2003 08:22:45 0      313       53    0.2
+T 32V 627682 6779696    224.0 08.23.2003 08:28:46 0      674      104    0.1
+T 32V 627630 6779685    224.0 08.23.2003 08:29:00 0      688      157    3.8
+T 32V 627579 6779696    225.0 08.23.2003 08:29:10 0      698      209    5.2

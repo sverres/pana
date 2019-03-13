@@ -11,6 +11,17 @@ python
 @snapend
 
 
+---?image=template/img/bg/blue.jpg
+@title[createRandomPoints]
+
+@code[python zoom-12](src/GPS-snippet.txt)
+
+
+---?image=template/img/bg/blue.jpg
+@title[createRandomPoints]
+
+@code[python zoom-12](src/SOSI-snippet.txt)
+
 
 ---?image=images/growth_major_languages.png&size=50%
 @title[Popularitet]
