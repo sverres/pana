@@ -302,7 +302,7 @@ oppsummert
 @title[and now..]
 
 @snap[center text-white text-14]
-@quote[and now for something completey different](Monty Python Flying Circus)
+@quote[and now for something completly different](Monty Python Flying Circus)
 @snapend
 
 
