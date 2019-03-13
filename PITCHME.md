@@ -129,6 +129,7 @@ The Zen<br>of Python
 - Now is better than never
 - Readability counts
 @ulend
+_*-Tim Peters*_
 @snapend
 
 
@@ -296,6 +297,18 @@ oppsummert
 
 
 
+
+
+
+---?color=linear-gradient(to right, #c02425, #f0cb35)
+@title[and now..]
+
+
+@snap[south-west byline text-white text-12]
+@quote[and now for somthing completey different](Monty Python Flying Circus)
+@snapend
+
+
 ---?image=template/img/bg/green.jpg
 @title[createRandomPoints]
 
@@ -322,3 +335,20 @@ oppsummert
 @[8, zoom-14]
 @[9-11, zoom-14]
 @[12, zoom-14]
+
+
+
+---?image=template/img/bg/green.jpg&position=left&size=60% 100%
+@title[Ressurser]
+
+@snap[east text-17 text-bold text-green span-40]
+The Zen<br>of Python
+@snapend
+
+@snap[west text-white span-60]
+@ul[split-screen-list text-08](false)
+- [www.python.org](https://www.python.org/)
+- [www.python.org](https://www.anaconda.com/)
+- [folk.ntnu.no/sverrsti/python_intro](https://folk.ntnu.no/sverrsti/python_intro/)
+@ulend
+@snapend
