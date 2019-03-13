@@ -48,10 +48,12 @@ python
 @snap[west span-100]
 ### IMT3881<br>Vitenskapelig programmering
 Høynivå vitenskapelig programmering for
+@ul
 - visualisering av flerdimensjonale data
 - lineæralgebra
 - optimalisering
-@ul
+- m.m.
+- nivå 3-emne
 @ulend
 @snapend
 
