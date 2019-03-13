@@ -307,7 +307,7 @@ oppsummert
 
 
 @snap[center text-white text-14]
-@quote[and now for somthing completey different](Monty Python Flying Circus)
+@quote[and now for something completey different](Monty Python Flying Circus)
 @snapend
 
 
@@ -340,14 +340,14 @@ oppsummert
 
 
 
----?image=template/img/bg/green.jpg&position=left&size=60% 100%
+---?image=template/img/bg/green.jpg&position=right&size=60% 100%
 @title[Ressurser]
 
-@snap[east text-17 text-bold text-green span-40]
-The Zen<br>of Python
+@snap[east text-17 text-bold text-white span-40]
+Veien videre
 @snapend
 
-@snap[west text-white span-60]
+@snap[west span-60]
 @ul[split-screen-list text-08](false)
 - [www.python.org](https://www.python.org/)
 - [www.python.org](https://www.anaconda.com/)
