@@ -33,8 +33,10 @@ python
 
 @snap[west span-100]
 ### GEO2061<br>Programmering for geomatikk
+
+Obligatorisk emne i bachelor-studiet 2004-2007
+
 @ul
-- obligatorisk emne i bachelor-studiet 2004-2007
 - grunnleggende python-programmering
 - bruk av python i ArcGIS
 - avløst av java-kurs ved IMT
@@ -47,6 +49,7 @@ python
 
 @snap[west span-100]
 ### IMT3881<br>Vitenskapelig programmering
+
 Høynivå vitenskapelig programmering for
 @ul
 - visualisering av flerdimensjonale data
