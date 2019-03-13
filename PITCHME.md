@@ -260,7 +260,6 @@ datastrukturene
 @snapend
 
 
-
 ---?image=template/img/bg/green.jpg&position=left&size=50% 100%
 @title[Innebygde metoder]
 @snap[east text-17 text-bold text-green span-50]
@@ -299,16 +298,24 @@ oppsummert
 
 
 
-
-
-
 ---?color=linear-gradient(to right, #c02425, #f0cb35)
 @title[and now..]
-
 
 @snap[center text-white text-14]
 @quote[and now for something completey different](Monty Python Flying Circus)
 @snapend
+
+
+
+---?image=template/img/bg/yellow.jpg
+@title[Geografisk analyse]
+
+@snap[west span-60]
+@ul[split-screen-list text-08](false)
+- [folk.ntnu.no/sverrsti/python_intro](https://folk.ntnu.no/sverrsti/python_intro/pana.html)
+@ulend
+@snapend
+
 
 
 ---?image=template/img/bg/green.jpg
