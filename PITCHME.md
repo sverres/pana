@@ -15,7 +15,7 @@ python
 @title[createRandomPoints]
 
 @snap[north span-100]
-@code[ini zoom-08](src/GPS_snippet.txt)
+@code[ini zoom-06](src/GPS_snippet.txt)
 @snapend
 
 
