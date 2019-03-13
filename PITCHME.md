@@ -37,10 +37,11 @@ python
 ## GEO2061
 
 ### Programmering for geomatikk
-
+@ul
 - obligatorisk emne i bachelor-studiet 2004-2007
 - Grunnleggende python-programmering
 - Bruk av python i ArcGIS
+@ulend
 @snapend
 
 
