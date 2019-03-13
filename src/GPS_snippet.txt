@@ -13,7 +13,6 @@ U  UTM UPS
 H TRACK SUMMARY
 H Track            Pnts Date          Time     StopTime  seconds        m    m/s Alt(m)  
 H                   1607 08.23.2003 08:17:32 12:40:40    15788    86485    5.5    927.0
-
 F Zne Easting  Northing Alt(m)   Date          Time     S  seconds        m    m/s
 T 32V 627710 6779796    227.0 08.23.2003 08:17:32 1 
 T 32V 627694 6779745    229.0 08.23.2003 08:22:45 0      313       53    0.2
