@@ -59,6 +59,6 @@ transition : none
 # Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "GitPitch - The Quickstart Template"
-description : "High-utility markdown slide templates for GitPitch presentation authors."
+title : "Python introduksjon"
+description : "Sverre Stikbakke"
 thumbnail : https://gitpitch.com/gpimg/the-template-thumb.jpg

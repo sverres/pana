@@ -350,7 +350,7 @@ Veien<br>videre
 @snap[west span-60]
 @ul[split-screen-list text-08](false)
 - [www.python.org](https://www.python.org/)
-- [www.python.org](https://www.anaconda.com/)
+- [www.anaconda.org](https://www.anaconda.com/)
 - [folk.ntnu.no/sverrsti/python_intro](https://folk.ntnu.no/sverrsti/python_intro/)
 @ulend
 @snapend
