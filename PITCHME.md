@@ -31,7 +31,9 @@ python
 ---
 @title[createRandomPoints]
 
-## GEO2061 – Programmering for geomatikk
+## GEO2061
+
+### Programmering for geomatikk
 
 - obligatorisk emne i bachelor-studiet 2004-2007
 - Grunnleggende python-programmering
