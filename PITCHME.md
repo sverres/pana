@@ -340,11 +340,11 @@ oppsummert
 
 
 
----?image=template/img/bg/green.jpg&position=right&size=60% 100%
+---?image=template/img/bg/green.jpg&position=right&size=40% 100%
 @title[Ressurser]
 
 @snap[east text-17 text-bold text-white span-40]
-Veien videre
+Veien<br>videre
 @snapend
 
 @snap[west span-60]
