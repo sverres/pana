@@ -311,8 +311,8 @@ oppsummert
 @title[Geografisk analyse]
 
 @snap[west span-60]
-@ul[split-screen-list text-08](false)
-- [folk.ntnu.no/sverrsti/python_intro](https://folk.ntnu.no/sverrsti/python_intro/pana.html)
+@ul[split-screen-list text-12](false)
+[Analyse av punktmønstre](https://folk.ntnu.no/sverrsti/python_intro/pana.html)
 @ulend
 @snapend
 
