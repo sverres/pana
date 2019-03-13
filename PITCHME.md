@@ -33,7 +33,7 @@ python
 
 
 @snap[west span-100]
-## GEO2061<br>Programmering for geomatikk
+#### GEO2061<br>Programmering for geomatikk
 @ul
 - obligatorisk emne i bachelor-studiet 2004-2007
 - grunnleggende python-programmering
