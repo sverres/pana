@@ -15,14 +15,17 @@ python
 @title[createRandomPoints]
 
 @snap[north span-100]
-@code[ini zoom-06](src/GPS_snippet.txt)
+@code[ini zoom-05](src/GPS_snippet.txt)
 @snapend
 
 
 ---?image=template/img/bg/green.jpg
 @title[createRandomPoints]
 
-@code[python zoom-4](src/SOSI_snippet.txt)
+
+@snap[north span-100]
+@code[ini zoom-05](src/SOSI_snippet.txt)
+@snapend
 
 
 ---?image=images/growth_major_languages.png&size=50%
